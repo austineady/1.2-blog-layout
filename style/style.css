@@ -1,0 +1,66 @@
+header {
+  background-image: url(http://www.southeastdiscovery.com/myimages/greenville-sc-river-place.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 300px;
+}
+body {
+  display: block;
+  background-color: white;
+  font-family: helvetica;
+}
+section {
+  background-color: white;
+  height: 500px;
+  float: left;
+  padding: 50px 0;
+}
+#left {
+  width: 200px;
+  text-align: right;
+}
+#middle {
+  width: 550px;
+  text-align: center;
+  padding: 50px 20px;
+}
+#right {
+  background-color: white;
+  width: 50px;
+  text-align: right;
+}
+#class {
+  height: 250px;
+  width: 350px;
+}
+#logo {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  margin-top: 260px;
+  margin-left: 100px;
+  border: 4px solid white;
+}
+h5 {
+  color: grey;
+}
+div {
+  height: 30px;
+  width: 150px;
+  border: 2px solid grey;
+  opacity: .5;
+  border-radius: 10%;
+  background-color: rgba(0, 0, 0, .05);
+  color: grey;
+  margin-top: 60px;
+  margin-left: 40px;
+  text-align: left;
+}
+em {
+  font-size: 15px;
+  margin-left: 5px;
+  bottom: 2;
+}
